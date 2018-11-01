@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8b80535-c385-44ba-b934-845ad74eb287" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1577340812">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="2070" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="2070" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="3" />
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="3" />
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="imagick1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#form#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/thumbs/oumarsow.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sav</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="25" />
+    <option name="width" value="1329" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="31-10-2018">
+        <observation name="false" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="false" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="31-10-2018">
+        <observation name="false" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="false" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="47,0" />
+        <observation name="false" value="25,0" />
+        <observation name="true" value="1,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="34,0" />
+        <observation name="false" value="17,0" />
+        <observation name="true" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="47,0" />
+        <observation name="false" value="21,0" />
+        <observation name="true" value="5,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="34,0" />
+        <observation name="false" value="11,0" />
+        <observation name="true" value="7,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="47,0" />
+        <observation name="false" value="21,0" />
+        <observation name="true" value="5,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="34,0" />
+        <observation name="false" value="11,0" />
+        <observation name="true" value="7,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="47,0" />
+        <observation name="false" value="26,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="34,0" />
+        <observation name="false" value="18,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="47,0" />
+        <observation name="false" value="26,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="34,0" />
+        <observation name="false" value="18,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="31-10-2018">
+        <observation name="false" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="false" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:methodsChains">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="31-10-2018">
+        <observation name="cancelled" value="168,0" />
+        <observation name="explicitSelect" value="31,0" />
+        <observation name="typedSelect" value="42,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="cancelled" value="264,0" />
+        <observation name="explicitSelect" value="22,0" />
+        <observation name="typedSelect" value="30,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="31-10-2018">
+        <observation name="BASIC" value="106,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="BASIC" value="76,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="31-10-2018">
+        <observation name="count" value="241,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="count" value="316,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="0,110345" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="3,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,121143" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="-1089,855172" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1202,0" />
+        <observation name="variance" value="51457,173049" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="-1109,92233" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1353,0" />
+        <observation name="variance" value="59569,388358" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="4,910345" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="100,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="277,850827" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="2,699029" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="100,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="134,972012" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="47,0" />
+        <observation name="average" value="0,470588" />
+        <observation name="count" value="51,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,465383" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="34,0" />
+        <observation name="average" value="0,742857" />
+        <observation name="count" value="35,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,661125" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="4,627586" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="17,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="4,41391" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="4,446602" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="11,0" />
+        <observation name="min" value="2,0" />
+        <observation name="variance" value="1,674645" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="1,0" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="1,0" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="31-10-2018">
+        <observation name="UNDEFINED" value="73,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="UNDEFINED" value="52,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="1792,786207" />
+        <observation name="count" value="145,0" />
+        <observation name="max" value="10000,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="9910208,053382" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="2328,524272" />
+        <observation name="count" value="103,0" />
+        <observation name="max" value="10000,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="15325151,890349" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="31-10-2018">
+        <observation name="0" value="25,0" />
+        <observation name="1" value="5,0" />
+        <observation name="3" value="1,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="0" value="22,0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="31-10-2018">
+        <observation name="total" value="23,0" />
+        <observation name="withMnemonics" value="0,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="total" value="19,0" />
+        <observation name="withMnemonics" value="4,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="31-10-2018">
+        <observation name="0" value="4,0" />
+        <observation name="1" value="4,0" />
+        <observation name="2" value="7,0" />
+        <observation name="3" value="3,0" />
+        <observation name="4" value="8,0" />
+        <observation name="5" value="4,0" />
+        <observation name="8" value="1,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="0" value="2,0" />
+        <observation name="1" value="1,0" />
+        <observation name="2" value="3,0" />
+        <observation name="3" value="4,0" />
+        <observation name="4" value="6,0" />
+        <observation name="5" value="6,0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="31-10-2018">
+        <observation name="average" value="303,082677" />
+        <observation name="count" value="254,0" />
+      </dailyData>
+      <dailyData date="01-11-2018">
+        <observation name="average" value="251,214689" />
+        <observation name="count" value="177,0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imagick1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imagick1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8b80535-c385-44ba-b934-845ad74eb287" name="Default Changelist" comment="" />
+      <created>1541018611213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541018611213</updated>
+      <workItem from="1541018614070" duration="2126000" />
+      <workItem from="1541021069065" duration="11005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13131000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="37" y="25" width="1329" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15666407" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24941543" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/thumbs/oumarsow.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/thumbs/ecriture.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/thumbs/oumarsow1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
